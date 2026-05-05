@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://deborataveiraa.github.io/Portfolio",
+  "homepage": "https://deborataveiraa.github.io/portfolio-frontend",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
